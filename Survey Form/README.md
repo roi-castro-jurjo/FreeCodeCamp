@@ -33,3 +33,5 @@ User Stories:
 - [x] Inside the form element, you are presented with a textarea for additional comments
 
 - [x] Inside the form element, you are presented with a button with id of submit to submit all the inputs
+
+![alt text](SurveyForm.png)
