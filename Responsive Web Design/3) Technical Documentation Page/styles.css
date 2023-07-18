@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    position: fixed;
+    min-width: 300px;
+    min-height: 100%;
+    white-space: nowrap;
+    border: solid black 1px;
+}
+
+#navbar > p, #navbar > header {
+    padding: 5px 20px;
+    margin: 0;
+}
+
+#navbar > p {
+    border-top: solid black 1px;
+}
+
+main {
+    margin-left: 320px;
+}
