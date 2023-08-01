@@ -15,5 +15,5 @@ User Stories:
 - [x] Within the form, there is a submit input with a corresponding id="submit"
 - [x] When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
 - [x] The navbar should always be at the top of the viewport
-- [ ] Your product landing page should have at least one media query
+- [x] Your product landing page should have at least one media query
 - [x] Your product landing page should utilize CSS flexbox at least once
