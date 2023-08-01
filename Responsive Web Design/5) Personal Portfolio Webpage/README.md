@@ -13,3 +13,5 @@ User Stories:
 - [x] Your portfolio should have at least one media query
 - [x] The height of the welcome section should be equal to the height of the viewport
 - [x] The navbar should always be at the top of the viewport
+
+![alt text](Personal-Portfolio_Webpage.png)
