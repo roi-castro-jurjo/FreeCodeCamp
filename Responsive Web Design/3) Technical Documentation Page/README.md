@@ -31,4 +31,4 @@ User Stories:
 - [x] On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user
 - [x] Your technical documentation should use at least one media query
 
-![alt text](TechnicalDocumentationPage.png)
+![alt text](TechnicalDocumentationPage.PNG)
