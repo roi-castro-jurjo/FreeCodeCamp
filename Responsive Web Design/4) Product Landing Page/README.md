@@ -17,3 +17,5 @@ User Stories:
 - [x] The navbar should always be at the top of the viewport
 - [x] Your product landing page should have at least one media query
 - [x] Your product landing page should utilize CSS flexbox at least once
+
+![alt text](ProductLandingPage.png)
